@@ -1,6 +1,6 @@
 ## Class Information
-- Name: Samara Ulanbekova  
-- Certification: Version control  
+- Name: Samara Ulan  
+- Certification: Coursera Version control  
 
 ## Instructions
 Please replace the placeholders with your details:
